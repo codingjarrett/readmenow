@@ -70,7 +70,7 @@ const questions = [
 
 //has writeToFile create readme
 function writeToFile(data) {
-    fs.writeFile('README.md', data, (err) =>
+    fs.writeFile('./assets/README.md', data, (err) =>
     err ? console.error(err) : console.log('README launched successfully!')
     );
 };
