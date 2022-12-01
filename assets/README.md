@@ -5,8 +5,7 @@
 
   ## Description
 
-  This creates a README file using the command line and user input, streamlining the README development for users. The app asks the user questions pertaining to the project and create the README using the user answers. 
-  * [The link to the live site](N/A)
+  This creates a README file using the command line and user input, streamlining the README development for users. The app asks the user questions pertaining to the project and create the README using the user answers.
   * [The app's gitHub repo](http://github.com/codingjarrett/readmenow)
 
   ## Table of Contents
@@ -25,7 +24,7 @@
   ## Usage
 
   It will be used to generate READMEs.
-  ![ScreenCap of live App](N/A)
+  ![ScreenCap of live App](readmenow.gif)
 
   
   ## License
